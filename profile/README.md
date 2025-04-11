@@ -1,12 +1,24 @@
 ## Hi there 👋
 
-<!--
+# Welcome to Our GitHub Organization!
 
-**Here are some ideas to get you started:**
+## About Us
+We are students of the MSc in Computer Science program at Roskilde University. This organization serves as the central repository for our Specialisation course in Computer Science.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Team Members
+- **Marek Laslo** - [GitHub Profile](https://github.com/MarLaslo)
+- **Md Shazzad Hossain Shefat** - TBA
+
+## Purpose of This Repository
+This repository contains important information related to our semester project. Here, you will find:
+- Source code
+
+Stay tuned for updates as we progress through the semester!
+
+## Contact
+If you have any questions or would like to collaborate, feel free to reach out through GitHub.
+
+---
+Happy coding! 🚀
+
+
