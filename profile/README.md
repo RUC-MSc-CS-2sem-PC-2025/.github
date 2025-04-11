@@ -7,7 +7,7 @@ We are students of the MSc in Computer Science program at Roskilde University. T
 
 ## Team Members
 - **Marek Laslo** - [GitHub Profile](https://github.com/MarLaslo)
-- **Md Shazzad Hossain Shefat** - TBA
+- **Md Shazzad Hossain Shefat** - [GitHub Profile](https://github.com/shefatruc)
 
 ## Purpose of This Repository
 This repository contains important information related to our semester project. Here, you will find:
